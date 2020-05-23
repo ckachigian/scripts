@@ -1,7 +1,13 @@
 # scripts
 These are some scripts that I have found useful over time.  I am in the process of cleaning up the scripts and publishing.  I will also use this as an opportunity to sharpen my PowerShell skills since its been a few years since I’ve had to do anything meaningful with PowerShell.  Thanks for your patience and I hope you find the contents useful.
 
-New goal for the PowerShell Scripts: ensure the scripts work well when run both synchronously and asynchronously.  This is something I will add to the scripts over time.
+
+Goals of this project:
+- Sharpen and enhance my scripting skills
+- Deliver a projects that’s useful to the community
+- For the PowerShell Scripts: ensure the scripts work well when run both synchronously and asynchronously.  This is something I will add to the scripts over time.
+- Ensure Script output is consistent across Windows, MacOS and Linux.  This will help for use in 3rd party systems or when needing a standard output from programmatic use, ie: APIs. This should also reduce the need for output manipulation.
+
 
 **Testing on Windows based systems**  
 Open PowerShell and set the execution policy:  
