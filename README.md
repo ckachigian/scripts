@@ -1,5 +1,5 @@
 # scripts
-These are some scripts that I have found useful over time.  I am in the process of cleaning up the scripts and publishing.  I will also use this as an opportunity to sharpen my PowerShell skills since its been a few years since I’ve had to do anything meaningful with PowerShell.  Thanks for your patience and I hope you find the contents useful.
+These are some scripts that I have found useful over time.  I am in the process of cleaning up the scripts and publishing.  I will also use this as an opportunity to sharpen my script skills since its been a few years since I’ve had to do anything meaningful with scripts.  Thanks for your patience and I hope you find the contents useful.
 
 
 Goals of this project:
