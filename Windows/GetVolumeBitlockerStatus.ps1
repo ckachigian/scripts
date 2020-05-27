@@ -1,3 +1,5 @@
+#Retrieves a list of volumes
+
 $items = @(Get-BitLockerVolume)
 
 foreach ($item in $items){

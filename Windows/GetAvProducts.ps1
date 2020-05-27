@@ -1,4 +1,5 @@
 ﻿#This script is intended to display Name and state of the AntiVirus Product(s) installed on the system.
+#It will return one or more values
 
 $tools = @(Get-WmiObject -Namespace “root\SecurityCenter2” -Class AntiVirusProduct)
 
