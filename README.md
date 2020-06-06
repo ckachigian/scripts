@@ -20,18 +20,18 @@ Fix errors then recheck
 Publish when correct  
 
 **Testing on MacOS based systems**  
-Open terminal  
-Test script execution  
-Review output  
-Fix errors then recheck  
-Publish when correct  
+- Open terminal  
+- Test script execution  
+- Review output  
+- Fix errors then recheck  
+- Publish when correct  
 
 **Testing on Linux Systems**  
-Open terminal  
-Test script execution  
-Review output  
-Fix errors then recheck  
-Publish when correct  
+- Open terminal  
+- Test script execution  
+- Review output  
+- Fix errors then recheck  
+- Publish when correct  
 
 My intention is to get a automated test system in place at some point as time allows.  As of now I am testing manually.
 
