@@ -1,4 +1,4 @@
 #This is intended to return the system status
 
-$systemStatus = Get-WmiObject -Class Win32_ComputerSystem 
-write-output $systemStatus.Status
+$os=(Get-CimInstance -ClassName Win32_OperatingSystem
+write-output $os.Status
