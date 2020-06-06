@@ -14,10 +14,10 @@ Open PowerShell and set the execution policy:
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted  
 ```
-Test script execution  
-Review output  
-Fix errors then recheck  
-Publish when correct  
+- Test script execution  
+- Review output  
+- Fix errors then recheck  
+- Publish when correct  
 
 **Testing on MacOS based systems**  
 - Open terminal  
