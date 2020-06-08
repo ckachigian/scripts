@@ -3,7 +3,7 @@ These are some scripts that I have found useful over time.  I am in the process 
 
 
 Goals of this project:
-- Deliver a projects that’s useful to the community
+- Deliver a project that’s useful to the community
 - Sharpen and enhance my scripting skills
 - For the PowerShell Scripts: ensure the scripts work well when run both synchronously and asynchronously.  This is something I will add to the scripts over time.
 - Ensure Script output is consistent across Windows, MacOS and Linux.  This will help for use in 3rd party systems or when needing a standard output from programmatic use, ie: APIs. This should also reduce the need for output manipulation.
