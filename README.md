@@ -8,6 +8,9 @@ Goals of this project:
 - For the PowerShell Scripts: ensure the scripts work well when run both synchronously and asynchronously.  This is something I will add to the scripts over time.
 - Ensure Script output is consistent across Windows, MacOS and Linux.  This will help for use in 3rd party systems or when needing a standard output from programmatic use, ie: APIs. This should also reduce the need for output manipulation.
 
+**Major things being added shortly:**
+- Better error handling on all platforms.  Right now there is barely any.
+- Updating PowerShell scripts to CIM based cmdlets.
 
 **Testing on Windows based systems**  
 Open PowerShell and set the execution policy:  
