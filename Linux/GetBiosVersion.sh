@@ -1,4 +1,5 @@
 #!/bin/sh
+# Gets the BIOS Version
 
 file=/sys/devices/virtual/dmi/id/bios_version
 if [ -f "$file" ]; then

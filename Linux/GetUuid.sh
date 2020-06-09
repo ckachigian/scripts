@@ -1,4 +1,5 @@
 #!/bin/sh
+# Returns the systems UUID
 
 file=/sys/devices/virtual/dmi/id/product_uuid
 if [ -f "$file" ]; then

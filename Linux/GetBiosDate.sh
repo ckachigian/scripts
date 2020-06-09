@@ -1,4 +1,5 @@
 #!/bin/sh
+# Gets the device's modification date
 
 file=/sys/devices/virtual/dmi/id/bios_date
 if [ -f "$file" ]; then

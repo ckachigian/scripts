@@ -1,4 +1,5 @@
 #!/bin/sh
+# Gets the device's serial number
 
 file=/sys/devices/virtual/dmi/id/product_serial
 if [ -f "$file" ]; then

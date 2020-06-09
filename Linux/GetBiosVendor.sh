@@ -1,4 +1,5 @@
 #!/bin/sh
+# Returns the BIOS vendor
 
 file=/sys/devices/virtual/dmi/id/bios_vendor
 if [ -f "$file" ]; then
