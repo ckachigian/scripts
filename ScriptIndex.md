@@ -3,5 +3,5 @@ Below you will find an index of scripts in this project mapped to Operating Syst
 
 |Script Name|Windows|MacOS (zsh)|Linux (sh)|Description|
 |:---|:---:|:---:|:---:|:---:|
-|Serial Number|X|X||Gets the serial number of a device|
-
+|BIOS Date|||X|Gets the BIOS date|
+|Serial Number|X|X|X|Gets the serial number of a device|
